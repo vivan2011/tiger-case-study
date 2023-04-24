@@ -1,0 +1,18 @@
+body{
+    background-color: darkgoldenrod;
+    color:white;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+ 
+  h3{
+    position:fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    background-color:olivedrab;
+
+  }
+
